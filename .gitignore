@@ -1,0 +1,20 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Node / PHP vendor (if used later)
+node_modules/
+vendor/
+
+# Environment / tooling
+.env
+.phpunit.result.cache
+.wp-env/
